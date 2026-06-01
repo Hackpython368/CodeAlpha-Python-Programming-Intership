@@ -17,11 +17,10 @@ This repository includes all internship tasks, source code, documentation, and p
 
 ### Tasks Completed
 
-* Task 1: [Project Name]
-* Task 2: [Project Name]
-* Task 3: [Project Name]
-
-> Update the project names as you complete each task.
+* Task 1: [Hangman Game]
+* Task 2: [Stock Portfolio Tracker]
+* Task 3: [Task Automation using Python Script]
+* Task 4: [Basic Chatbot]
 
 ## 🛠️ Technologies Used
 
@@ -40,10 +39,10 @@ Through this internship, I aim to:
 
 ## 👨‍💻 Author
 
-**Vidya Pandey**
+**Vidya Prakash Pandey**
 
-* GitHub: [Your GitHub Profile Link]
-* LinkedIn: [Your LinkedIn Profile Link]
+* GitHub: [https://github.com/hackpython368]
+* LinkedIn: [https://linkedin.com/in/vppandey368]
 
 ## 🙏 Acknowledgement
 
